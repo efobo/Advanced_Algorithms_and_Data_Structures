@@ -47,3 +47,7 @@ s 1 5 3
         <td>4</td>
     </tr>
 </table>
+
+<br>
+
+<img src="taskA.png">
