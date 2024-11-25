@@ -1,0 +1,3 @@
+/Users/a.i.ershova/CLionProjects/taskB/cmake-build-debug/CMakeFiles/taskB.dir
+/Users/a.i.ershova/CLionProjects/taskB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/a.i.ershova/CLionProjects/taskB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
