@@ -93,4 +93,6 @@ int main() {
     }
     cout << countOnes << '\n';
   }
+  fin.close();
+  return 0;
 }
