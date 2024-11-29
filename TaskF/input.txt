@@ -1,0 +1,109 @@
+8 2
+abababab
+abab
+bab
+
+Тест 1
+17 3
+HHHappyabNewQYear
+Happy
+New
+Year
+## вывод: YES
+
+Тест 2
+9 2
+HelloITMO
+Hello
+ITMO
+# вывод: NO
+
+Тест 3
+1 1
+A
+A
+# вывод: YES
+
+Тест 4
+5 1
+abcde
+xyz
+# вывод: NO
+
+Тест 5
+7 1
+abcdefg
+bcd
+# вывод: YES
+
+Тест 6!
+12 2
+HelloXXXWorld
+Hello
+World
+# вывод: YES
+
+Тест 7
+15 2
+WorldHelloWorld
+Hello
+World
+# вывод: NO
+
+Тест 8
+10 2
+abcdefghi
+abc
+bcd
+# вывод: NO
+
+Тест 9
+10 2
+XXHelloXX
+Hello
+World
+# вывод: NO
+
+Тест 10
+14 2
+CaseInsensitive
+case
+insensitive
+# вывод: NO
+
+Тест 11
+15 3
+abcXdefXghi
+abc
+def
+ghi
+## вывод: YES
+
+Тест 12 !
+9 3
+abcdefghi
+abc
+def
+ghi
+# вывод: NO
+
+Тест 13
+8 2
+abababab
+abab
+bab
+# вывод: YES или NO???
+
+Тест 14
+10 2
+XXHelloXX
+Hello
+XX
+# вывод: NO
+
+Тест 15
+13 2
+HelloITMOITMO
+Hello
+ITMO
+# вывод (точно): YES
