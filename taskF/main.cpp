@@ -52,5 +52,7 @@ int main() {
     }
     fool_word = false;
   }
+  fin.close();
   cout << ans << '\n';
+  return 0;
 }
